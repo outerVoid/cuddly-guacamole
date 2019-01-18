@@ -1,0 +1,4 @@
+how to compile file - source.cpp
+--------------------------------
+3.g++ -c source.cpp
+4.g++ main.o -o <launcher name>
